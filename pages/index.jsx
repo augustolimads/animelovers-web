@@ -5,8 +5,6 @@ import Gallery from "../components/gallery";
 import Form from "../components/form";
 import Searching from "../components/searching";
 import Footer from "../components/footer";
-//icons
-import { FaSpinner } from "react-icons/fa";
 
 export default function Home() {
 	const searchRef = useRef(null);
